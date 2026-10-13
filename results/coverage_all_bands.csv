@@ -1,0 +1,169 @@
+site_id,morphology,variant,band,coverage
+ATT_0108,talus slope,global,deep_seasonal(5-20m),1.0
+ATT_0108,talus slope,global,deep_trend(>=20m),1.0
+ATT_0108,talus slope,global,mid(1-5m),0.7542095416276894
+ATT_0108,talus slope,global,shallow(<1m),0.49251637043966323
+ATT_0108,talus slope,mondrian,deep_seasonal(5-20m),0.7832086061739943
+ATT_0108,talus slope,mondrian,deep_trend(>=20m),0.7935765512940443
+ATT_0108,talus slope,mondrian,mid(1-5m),0.877689429373246
+ATT_0108,talus slope,mondrian,shallow(<1m),0.8470533208606174
+ATT_0208,talus slope,global,deep_seasonal(5-20m),1.0
+ATT_0208,talus slope,global,deep_trend(>=20m),1.0
+ATT_0208,talus slope,global,mid(1-5m),0.7684466019417475
+ATT_0208,talus slope,global,shallow(<1m),0.6262135922330098
+ATT_0208,talus slope,mondrian,deep_seasonal(5-20m),0.8280166435506241
+ATT_0208,talus slope,mondrian,deep_trend(>=20m),0.6766990291262136
+ATT_0208,talus slope,mondrian,mid(1-5m),0.8300970873786407
+ATT_0208,talus slope,mondrian,shallow(<1m),0.8616504854368932
+COR_0200,rock glacier,global,deep_seasonal(5-20m),0.9803886925795053
+COR_0200,rock glacier,global,deep_trend(>=20m),0.9902087090955939
+COR_0200,rock glacier,global,mid(1-5m),0.8524987380111055
+COR_0200,rock glacier,global,shallow(<1m),0.6035335689045936
+COR_0200,rock glacier,mondrian,deep_seasonal(5-20m),0.9600706713780919
+COR_0200,rock glacier,mondrian,deep_trend(>=20m),0.7614446448509834
+COR_0200,rock glacier,mondrian,mid(1-5m),0.9839475012619889
+COR_0200,rock glacier,mondrian,shallow(<1m),0.9674911660777386
+COR_0287,rock glacier,global,deep_seasonal(5-20m),0.9571854058078928
+COR_0287,rock glacier,global,deep_trend(>=20m),1.0
+COR_0287,rock glacier,global,mid(1-5m),0.66264511723196
+COR_0287,rock glacier,global,shallow(<1m),0.35597826086956524
+COR_0287,rock glacier,mondrian,deep_seasonal(5-20m),0.8901712583767685
+COR_0287,rock glacier,mondrian,deep_trend(>=20m),0.7537537537537538
+COR_0287,rock glacier,mondrian,mid(1-5m),0.8593216480764854
+COR_0287,rock glacier,mondrian,shallow(<1m),0.9198369565217391
+FLU_0102,talus slope,global,deep_seasonal(5-20m),1.0
+FLU_0102,talus slope,global,deep_trend(>=20m),1.0
+FLU_0102,talus slope,global,mid(1-5m),0.9395931142410016
+FLU_0102,talus slope,global,shallow(<1m),0.6488262910798122
+FLU_0102,talus slope,mondrian,deep_seasonal(5-20m),0.986317907444668
+FLU_0102,talus slope,mondrian,deep_trend(>=20m),0.9286384976525821
+FLU_0102,talus slope,mondrian,mid(1-5m),0.9655712050078247
+FLU_0102,talus slope,mondrian,shallow(<1m),0.9821596244131455
+GEM_0106,crest,global,deep_seasonal(5-20m),0.9955235016165133
+GEM_0106,crest,global,deep_trend(>=20m),0.7680725798668082
+GEM_0106,crest,global,mid(1-5m),0.8349298284695923
+GEM_0106,crest,global,shallow(<1m),0.7020990312163616
+GEM_0106,crest,mondrian,deep_seasonal(5-20m),0.8517781646356628
+GEM_0106,crest,mondrian,deep_trend(>=20m),0.8254029533828781
+GEM_0106,crest,mondrian,mid(1-5m),0.7865894408554244
+GEM_0106,crest,mondrian,shallow(<1m),0.7814854682454252
+GEN_0102,moraine,global,deep_seasonal(5-20m),0.9943830743306497
+GEN_0102,moraine,global,deep_trend(>=20m),1.0
+GEN_0102,moraine,global,mid(1-5m),0.8257275132275133
+GEN_0102,moraine,global,shallow(<1m),0.7469806763285024
+GEN_0102,moraine,mondrian,deep_seasonal(5-20m),0.7573488110840667
+GEN_0102,moraine,mondrian,deep_trend(>=20m),1.0
+GEN_0102,moraine,mondrian,mid(1-5m),0.8515211640211641
+GEN_0102,moraine,mondrian,shallow(<1m),0.8792270531400966
+JFR_0195,crest,global,deep_seasonal(5-20m),0.5514573123549136
+JFR_0195,crest,mondrian,deep_seasonal(5-20m),0.5514573123549136
+LAP_0198,talus slope,global,deep_seasonal(5-20m),0.9966004184100419
+LAP_0198,talus slope,global,mid(1-5m),0.7681311018131102
+LAP_0198,talus slope,global,shallow(<1m),0.5617154811715481
+LAP_0198,talus slope,mondrian,deep_seasonal(5-20m),0.8262726638772664
+LAP_0198,talus slope,mondrian,mid(1-5m),0.8519293351929336
+LAP_0198,talus slope,mondrian,shallow(<1m),0.8647140864714087
+LAP_1108,talus slope,global,deep_seasonal(5-20m),1.0
+LAP_1108,talus slope,global,deep_trend(>=20m),1.0
+LAP_1108,talus slope,global,mid(1-5m),0.7362255965292842
+LAP_1108,talus slope,global,shallow(<1m),0.34427284427284427
+LAP_1108,talus slope,mondrian,deep_seasonal(5-20m),0.7803664921465968
+LAP_1108,talus slope,mondrian,deep_trend(>=20m),0.8526759744037231
+LAP_1108,talus slope,mondrian,mid(1-5m),0.8982646420824295
+LAP_1108,talus slope,mondrian,shallow(<1m),0.859073359073359
+LAP_1208,talus slope,global,deep_seasonal(5-20m),0.999804151978065
+LAP_1208,talus slope,global,deep_trend(>=20m),1.0
+LAP_1208,talus slope,global,mid(1-5m),0.6242410088743577
+LAP_1208,talus slope,global,shallow(<1m),0.23837209302325582
+LAP_1208,talus slope,mondrian,deep_seasonal(5-20m),0.8262828045436741
+LAP_1208,talus slope,mondrian,deep_trend(>=20m),0.8558558558558559
+LAP_1208,talus slope,mondrian,mid(1-5m),0.8031293787949556
+LAP_1208,talus slope,mondrian,shallow(<1m),0.8383720930232558
+MAT_0205,crest,global,deep_seasonal(5-20m),1.0
+MAT_0205,crest,global,deep_trend(>=20m),1.0
+MAT_0205,crest,global,mid(1-5m),0.7739801543550165
+MAT_0205,crest,global,shallow(<1m),0.5347298787210585
+MAT_0205,crest,mondrian,deep_seasonal(5-20m),0.8577728776185226
+MAT_0205,crest,mondrian,deep_trend(>=20m),0.9902834008097166
+MAT_0205,crest,mondrian,mid(1-5m),0.7897831679529584
+MAT_0205,crest,mondrian,shallow(<1m),0.8059536934950385
+MBP_0196,talus slope,global,deep_seasonal(5-20m),0.9852576647097195
+MBP_0196,talus slope,global,mid(1-5m),0.6888454011741683
+MBP_0196,talus slope,mondrian,deep_seasonal(5-20m),0.8707110241356817
+MBP_0196,talus slope,mondrian,mid(1-5m),0.8277886497064579
+MBP_0296,talus slope,global,deep_seasonal(5-20m),0.9460514640638864
+MBP_0296,talus slope,global,mid(1-5m),0.8117249154453213
+MBP_0296,talus slope,mondrian,deep_seasonal(5-20m),0.8168589174800355
+MBP_0296,talus slope,mondrian,mid(1-5m),0.9695603156708005
+MUR_0199,rock glacier,global,deep_seasonal(5-20m),0.9770927601809954
+MUR_0199,rock glacier,global,deep_trend(>=20m),1.0
+MUR_0199,rock glacier,global,mid(1-5m),0.836243093922652
+MUR_0199,rock glacier,global,shallow(<1m),0.552854511970534
+MUR_0199,rock glacier,mondrian,deep_seasonal(5-20m),0.8758484162895928
+MUR_0199,rock glacier,mondrian,deep_trend(>=20m),0.8202578268876611
+MUR_0199,rock glacier,mondrian,mid(1-5m),0.7615469613259669
+MUR_0199,rock glacier,mondrian,shallow(<1m),0.9303867403314917
+MUR_0299,rock glacier,global,deep_seasonal(5-20m),1.0
+MUR_0299,rock glacier,global,mid(1-5m),0.9360138348465197
+MUR_0299,rock glacier,global,shallow(<1m),0.7185473411154345
+MUR_0299,rock glacier,mondrian,deep_seasonal(5-20m),0.9549774887443722
+MUR_0299,rock glacier,mondrian,mid(1-5m),0.8787289234760052
+MUR_0299,rock glacier,mondrian,shallow(<1m),0.9303934284479032
+MUR_0499,rock glacier,global,shallow(<1m),0.8374524714828897
+MUR_0499,rock glacier,mondrian,shallow(<1m),0.9310836501901141
+RIT_0102,rock glacier,global,deep_seasonal(5-20m),1.0
+RIT_0102,rock glacier,global,mid(1-5m),0.8687735454164922
+RIT_0102,rock glacier,global,shallow(<1m),0.6113373003445036
+RIT_0102,rock glacier,mondrian,deep_seasonal(5-20m),0.9498616584220676
+RIT_0102,rock glacier,mondrian,mid(1-5m),0.8176015069066555
+RIT_0102,rock glacier,mondrian,shallow(<1m),0.8160037582211087
+SBE_0290,rock glacier,global,deep_seasonal(5-20m),1.0
+SBE_0290,rock glacier,global,deep_trend(>=20m),1.0
+SBE_0290,rock glacier,global,mid(1-5m),0.8719620628334321
+SBE_0290,rock glacier,global,shallow(<1m),0.4908120924718435
+SBE_0290,rock glacier,mondrian,deep_seasonal(5-20m),0.8197984588026082
+SBE_0290,rock glacier,mondrian,deep_trend(>=20m),0.2803793716656787
+SBE_0290,rock glacier,mondrian,mid(1-5m),0.947836395969176
+SBE_0290,rock glacier,mondrian,shallow(<1m),0.9602845287492591
+SCH_5000,crest,global,deep_seasonal(5-20m),0.985862602164789
+SCH_5000,crest,global,deep_trend(>=20m),0.9513259097692572
+SCH_5000,crest,global,mid(1-5m),0.700488538143555
+SCH_5000,crest,global,shallow(<1m),0.6151005334427575
+SCH_5000,crest,mondrian,deep_seasonal(5-20m),0.6931742876076872
+SCH_5000,crest,mondrian,deep_trend(>=20m),0.5040753070829985
+SCH_5000,crest,mondrian,mid(1-5m),0.7553551296505073
+SCH_5000,crest,mondrian,shallow(<1m),0.867870332375872
+SCH_5198,crest,global,deep_seasonal(5-20m),0.8392987582176772
+SCH_5198,crest,global,mid(1-5m),0.784201189606595
+SCH_5198,crest,global,shallow(<1m),0.700754808862917
+SCH_5198,crest,mondrian,deep_seasonal(5-20m),0.6699780861943024
+SCH_5198,crest,mondrian,mid(1-5m),0.766357090681415
+SCH_5198,crest,mondrian,shallow(<1m),0.802045288531775
+SCH_5200,crest,global,deep_seasonal(5-20m),0.9862354892205638
+SCH_5200,crest,global,deep_trend(>=20m),1.0
+SCH_5200,crest,global,mid(1-5m),0.7189054726368159
+SCH_5200,crest,global,shallow(<1m),0.5345889599620943
+SCH_5200,crest,mondrian,deep_seasonal(5-20m),0.6271973466003317
+SCH_5200,crest,mondrian,deep_trend(>=20m),0.8427653399668324
+SCH_5200,crest,mondrian,mid(1-5m),0.7606412382531785
+SCH_5200,crest,mondrian,shallow(<1m),0.7357261312485193
+STO_6000,crest,global,deep_seasonal(5-20m),0.9858203021468328
+STO_6000,crest,global,deep_trend(>=20m),1.0
+STO_6000,crest,global,mid(1-5m),0.6530612244897959
+STO_6000,crest,global,shallow(<1m),0.3172541743970315
+STO_6000,crest,mondrian,deep_seasonal(5-20m),0.8139411608799364
+STO_6000,crest,mondrian,deep_trend(>=20m),0.668908472479901
+STO_6000,crest,mondrian,mid(1-5m),0.862012987012987
+STO_6000,crest,mondrian,shallow(<1m),0.87569573283859
+STO_6100,crest,global,deep_seasonal(5-20m),1.0
+STO_6100,crest,global,mid(1-5m),0.8082512315270935
+STO_6100,crest,global,shallow(<1m),0.5597701149425287
+STO_6100,crest,mondrian,deep_seasonal(5-20m),0.8698275862068966
+STO_6100,crest,mondrian,mid(1-5m),0.8056650246305419
+STO_6100,crest,mondrian,shallow(<1m),0.8620689655172413
+TSA_0104,crest,global,deep_seasonal(5-20m),0.9810316139767055
+TSA_0104,crest,global,mid(1-5m),0.7883161512027491
+TSA_0104,crest,global,shallow(<1m),0.44329896907216493
+TSA_0104,crest,mondrian,deep_seasonal(5-20m),0.3923460898502496
+TSA_0104,crest,mondrian,mid(1-5m),0.8487972508591065
+TSA_0104,crest,mondrian,shallow(<1m),0.8329896907216495

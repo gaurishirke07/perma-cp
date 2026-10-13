@@ -1,0 +1,9 @@
+variant,band,coverage
+drop(baseline),deep_seasonal(5-20m),0.8925361094456754
+drop(baseline),deep_trend(>=20m),0.8954129516671817
+drop(baseline),mid(1-5m),0.9000254205926284
+drop(baseline),shallow(<1m),0.8999236043507572
+keep-NaN,deep_seasonal(5-20m),0.890661560430743
+keep-NaN,deep_trend(>=20m),0.8995573188922223
+keep-NaN,mid(1-5m),0.9000000338043591
+keep-NaN,shallow(<1m),0.8998882529098147

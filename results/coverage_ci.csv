@@ -1,0 +1,13 @@
+band,method,n_sites,n_points,coverage,wilson_lo,wilson_hi,site_ci_lo,site_ci_hi,sig_diff_from_0.90
+shallow(<1m),global,22,56023,0.58,0.576,0.584,0.495,0.614,True
+shallow(<1m),mondrian,22,56023,0.845,0.842,0.848,0.844,0.896,True
+shallow(<1m),A(Mondrian+ACI),22,56023,0.9,0.897,0.902,0.898,0.902,False
+mid(1-5m),global,23,122829,0.788,0.786,0.79,0.752,0.815,True
+mid(1-5m),mondrian,23,122829,0.844,0.842,0.846,0.823,0.875,True
+mid(1-5m),A(Mondrian+ACI),23,122829,0.9,0.898,0.901,0.898,0.902,False
+deep_seasonal(5-20m),global,24,155322,0.972,0.971,0.973,0.923,0.992,True
+deep_seasonal(5-20m),mondrian,24,155322,0.819,0.817,0.821,0.75,0.853,True
+deep_seasonal(5-20m),A(Mondrian+ACI),24,155322,0.895,0.894,0.897,0.884,0.9,False
+deep_trend(>=20m),global,15,95391,0.968,0.967,0.969,0.947,1.0,True
+deep_trend(>=20m),mondrian,15,95391,0.745,0.743,0.748,0.667,0.854,True
+deep_trend(>=20m),A(Mondrian+ACI),15,95391,0.896,0.894,0.898,0.881,0.905,False

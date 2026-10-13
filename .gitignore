@@ -1,0 +1,36 @@
+# Raw PERMOS data — 214MB+ CSVs, re-downloadable from DOI:10.13093/permos-2025-01
+data/raw/
+
+# Geo assets for the Fig 1 relief map (35 MB DEM/GeoJSON/KML/lakes) — not needed for the coverage results;
+# the Fig 1 PNG is committed. Sources listed in the README.
+reference/
+
+# Superseded figures/assets, kept locally but not in the public repo
+_archive/
+ 
+# Excluded from version control by decision — planning/working docs, not the reproducible artifact
+docs/
+paper/permafrost_coding_sheet.xlsx
+paper/tex/
+paper/MENTOR_ALIGNMENT.md
+paper/METHODOLOGY_AUDIT.md
+paper/NARRATIVE.md
+paper/PAPER_FRAMING.md
+paper/PAPER_STRUCTURE.md
+paper/RESULTS.md
+paper/REVIEWER_FEEDBACK.md
+paper/reviews/
+paper/MOTIVATION.md
+paper/LITERATURE_REVIEW.md
+paper/EVALUATION_ROUNDS.md
+paper/FIGURE_GUIDE.md
+paper/PUBLISH_PENDING.md
+ 
+# Python
+.venv/
+__pycache__/
+*.pyc
+ 
+# OS
+.DS_Store
+ 

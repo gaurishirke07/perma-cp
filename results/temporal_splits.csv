@@ -1,0 +1,13 @@
+fold,band,coverage
+early(test 60-80%),deep_seasonal(5-20m),0.8981643741200978
+early(test 60-80%),deep_trend(>=20m),0.8755694613750492
+early(test 60-80%),mid(1-5m),0.9075259114280549
+early(test 60-80%),shallow(<1m),0.9054233679064075
+mid(test 70-90%),deep_seasonal(5-20m),0.8955912879925337
+mid(test 70-90%),deep_trend(>=20m),0.882285864597367
+mid(test 70-90%),mid(1-5m),0.9001628765455439
+mid(test 70-90%),shallow(<1m),0.9033367452170915
+recent(test 80-100%),deep_seasonal(5-20m),0.8925361094456754
+recent(test 80-100%),deep_trend(>=20m),0.8954129516671817
+recent(test 80-100%),mid(1-5m),0.9000254205926284
+recent(test 80-100%),shallow(<1m),0.8999236043507572
